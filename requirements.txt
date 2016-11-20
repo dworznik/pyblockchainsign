@@ -1,0 +1,6 @@
+gnureadline==6.3.3
+Naked==0.1.31
+py-bcrypt==0.4
+pycoin==0.70
+pycrypto==2.6.1
+requests==2.12.1
